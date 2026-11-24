@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mahirkabalak.ayetlerdendersler",
+      "sha256_cert_fingerprints": [
+        "BB:90:41:8A:0C:02:6F:FE:16:2B:B8:A4:F7:C0:C2:54:E2:51:EC:98:D6:E1:C5:89:EB:32:B4:2F:71:76:DB:60"
+      ]
+    }
+  }
+]
